@@ -1,0 +1,435 @@
+2025-04-01 14:08:14,112 - INFO - Auth_server Start
+2025-04-01 14:08:14,231 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.200.253:5005
+2025-04-01 14:08:14,231 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-01 14:08:14,237 - INFO -  * Restarting with stat
+2025-04-01 14:08:14,770 - INFO - Auth_server Start
+2025-04-01 14:08:14,790 - WARNING -  * Debugger is active!
+2025-04-01 14:08:14,815 - INFO -  * Debugger PIN: 773-020-079
+2025-04-01 14:09:20,196 - INFO -  * Detected change in '/home/k2/PycharmProjects/24P_server/main.py', reloading
+2025-04-01 14:09:20,450 - INFO -  * Restarting with stat
+2025-04-01 14:09:21,073 - INFO - Auth_server Start
+2025-04-01 14:09:21,094 - WARNING -  * Debugger is active!
+2025-04-01 14:09:21,100 - INFO -  * Debugger PIN: 773-020-079
+2025-04-01 14:11:35,946 - INFO - Connect db teacher complite
+2025-04-01 14:11:35,947 - INFO - Auth_server Start
+2025-04-01 14:11:35,988 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.200.253:5005
+2025-04-01 14:11:35,988 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-01 14:11:35,990 - INFO -  * Restarting with stat
+2025-04-01 14:11:36,413 - INFO - Connect db teacher complite
+2025-04-01 14:11:36,416 - INFO - Auth_server Start
+2025-04-01 14:11:36,446 - WARNING -  * Debugger is active!
+2025-04-01 14:11:36,451 - INFO -  * Debugger PIN: 773-020-079
+2025-04-01 14:13:03,940 - INFO -  * Detected change in '/home/k2/PycharmProjects/24P_server/main.py', reloading
+2025-04-01 14:13:04,169 - INFO -  * Restarting with stat
+2025-04-01 14:13:04,487 - INFO - Connect db teacher complite
+2025-04-01 14:13:04,489 - INFO - Auth_server Start
+2025-04-01 14:13:04,503 - WARNING -  * Debugger is active!
+2025-04-01 14:13:04,508 - INFO -  * Debugger PIN: 773-020-079
+2025-04-01 14:14:11,770 - INFO - 127.0.0.1 - - [01/Apr/2025 14:14:11] "GET / HTTP/1.1" 200 -
+2025-04-01 14:15:44,921 - INFO - 127.0.0.1 - - [01/Apr/2025 14:15:44] "[33mGET /registration/ HTTP/1.1[0m" 404 -
+2025-04-01 14:16:27,781 - INFO - 127.0.0.1 - - [01/Apr/2025 14:16:27] "[31m[1mGET /registration HTTP/1.1[0m" 405 -
+2025-04-01 14:16:35,623 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-01 14:16:35,623 - INFO - 127.0.0.1 - - [01/Apr/2025 14:16:35] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-01 14:18:40,785 - INFO - Connect db teacher complite
+2025-04-01 14:18:40,787 - INFO - Auth_server Start
+2025-04-01 14:18:40,821 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.200.253:5005
+2025-04-01 14:18:40,821 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-01 14:18:40,823 - INFO -  * Restarting with stat
+2025-04-01 14:18:41,272 - INFO - Connect db teacher complite
+2025-04-01 14:18:41,274 - INFO - Auth_server Start
+2025-04-01 14:18:41,290 - WARNING -  * Debugger is active!
+2025-04-01 14:18:41,302 - INFO -  * Debugger PIN: 773-020-079
+2025-04-01 14:18:46,317 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-01 14:18:46,320 - INFO - 127.0.0.1 - - [01/Apr/2025 14:18:46] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-01 14:20:14,576 - INFO - Connect db teacher complite
+2025-04-01 14:20:14,578 - INFO - Auth_server Start
+2025-04-01 14:20:14,607 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.200.253:5005
+2025-04-01 14:20:14,607 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-01 14:20:14,609 - INFO -  * Restarting with stat
+2025-04-01 14:20:14,967 - INFO - Connect db teacher complite
+2025-04-01 14:20:14,969 - INFO - Auth_server Start
+2025-04-01 14:20:14,982 - WARNING -  * Debugger is active!
+2025-04-01 14:20:14,986 - INFO -  * Debugger PIN: 773-020-079
+2025-04-01 14:20:21,137 - INFO - User testuser no registered [IP: 127.0.0.1]
+2025-04-01 14:20:21,146 - INFO - 127.0.0.1 - - [01/Apr/2025 14:20:21] "[31m[1mPOST /registration HTTP/1.1[0m" 401 -
+2025-04-01 14:29:51,798 - INFO -  * Detected change in '/home/k2/PycharmProjects/24P_server/models.py', reloading
+2025-04-01 14:29:52,005 - INFO -  * Restarting with stat
+2025-04-04 12:22:55,082 - INFO - Connect db teacher complite
+2025-04-04 12:22:55,083 - INFO - Auth_server Start
+2025-04-04 12:22:55,094 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.200.10:5005
+2025-04-04 12:22:55,095 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-04 12:22:55,095 - INFO -  * Restarting with stat
+2025-04-04 12:22:55,255 - INFO - Connect db teacher complite
+2025-04-04 12:22:55,256 - INFO - Auth_server Start
+2025-04-04 12:22:55,262 - WARNING -  * Debugger is active!
+2025-04-04 12:22:55,300 - INFO -  * Debugger PIN: 134-471-829
+2025-04-11 08:18:44,703 - INFO - Connect db 24ppc4 complite
+2025-04-11 08:18:44,704 - INFO - Auth_server Start
+2025-04-11 08:18:44,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5005
+ * Running on http://192.168.200.10:5005
+2025-04-11 08:18:44,725 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 08:18:44,726 - INFO -  * Restarting with stat
+2025-04-11 08:18:45,020 - INFO - Connect db 24ppc4 complite
+2025-04-11 08:18:45,022 - INFO - Auth_server Start
+2025-04-11 08:18:45,034 - WARNING -  * Debugger is active!
+2025-04-11 08:18:45,073 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:43:59,103 - INFO - Connect db 24ppc complite
+2025-04-11 08:43:59,104 - INFO - Auth_server Start
+2025-04-11 08:43:59,113 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 08:43:59,113 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 08:43:59,114 - INFO -  * Restarting with stat
+2025-04-11 08:43:59,301 - INFO - Connect db 24ppc complite
+2025-04-11 08:43:59,302 - INFO - Auth_server Start
+2025-04-11 08:43:59,309 - WARNING -  * Debugger is active!
+2025-04-11 08:43:59,312 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:44:15,171 - INFO - 127.0.0.1 - - [11/Apr/2025 08:44:15] "[31m[1mGET /registration HTTP/1.1[0m" 405 -
+2025-04-11 08:47:10,036 - INFO - Connect db 24ppc complite
+2025-04-11 08:47:10,037 - INFO - Auth_server Start
+2025-04-11 08:47:10,047 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 08:47:10,047 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 08:47:10,047 - INFO -  * Restarting with stat
+2025-04-11 08:47:10,261 - INFO - Connect db 24ppc complite
+2025-04-11 08:47:10,262 - INFO - Auth_server Start
+2025-04-11 08:47:10,269 - WARNING -  * Debugger is active!
+2025-04-11 08:47:10,272 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:50:48,839 - INFO - Connect db 24ppc complite
+2025-04-11 08:50:48,840 - INFO - Auth_server Start
+2025-04-11 08:50:48,851 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 08:50:48,851 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 08:50:48,851 - INFO -  * Restarting with stat
+2025-04-11 08:50:49,094 - INFO - Connect db 24ppc complite
+2025-04-11 08:50:49,096 - INFO - Auth_server Start
+2025-04-11 08:50:49,103 - WARNING -  * Debugger is active!
+2025-04-11 08:50:49,105 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:51:10,194 - INFO -  * Detected change in '/home/Student/Рабочий стол/шептякова 24P/main.py', reloading
+2025-04-11 08:51:10,259 - INFO -  * Restarting with stat
+2025-04-11 08:51:10,453 - INFO - Connect db 24ppc complite
+2025-04-11 08:51:10,454 - INFO - Auth_server Start
+2025-04-11 08:51:10,461 - WARNING -  * Debugger is active!
+2025-04-11 08:51:10,464 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:51:16,717 - INFO - Connect db 24ppc complite
+2025-04-11 08:51:16,718 - INFO - Auth_server Start
+2025-04-11 08:51:16,728 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 08:51:16,728 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 08:51:16,728 - INFO -  * Restarting with stat
+2025-04-11 08:51:16,925 - INFO - Connect db 24ppc complite
+2025-04-11 08:51:16,926 - INFO - Auth_server Start
+2025-04-11 08:51:16,934 - WARNING -  * Debugger is active!
+2025-04-11 08:51:16,937 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:51:36,402 - INFO - Connect db 24ppc4 complite
+2025-04-11 08:51:36,403 - INFO - Auth_server Start
+2025-04-11 08:51:36,413 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 08:51:36,413 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 08:51:36,414 - INFO -  * Restarting with stat
+2025-04-11 08:51:36,626 - INFO - Connect db 24ppc4 complite
+2025-04-11 08:51:36,627 - INFO - Auth_server Start
+2025-04-11 08:51:36,634 - WARNING -  * Debugger is active!
+2025-04-11 08:51:36,636 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:51:44,440 - INFO - 127.0.0.1 - - [11/Apr/2025 08:51:44] "[31m[1mGET /registration HTTP/1.1[0m" 405 -
+2025-04-11 08:52:05,309 - INFO - 127.0.0.1 - - [11/Apr/2025 08:52:05] "[31m[1mPOST /registration HTTP/1.1[0m" 415 -
+2025-04-11 08:53:22,015 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-11 08:53:22,016 - INFO - 127.0.0.1 - - [11/Apr/2025 08:53:22] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-11 08:57:55,318 - INFO - Connect db 24ppc4 complite
+2025-04-11 08:57:55,319 - INFO - Auth_server Start
+2025-04-11 08:57:55,328 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 08:57:55,328 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 08:57:55,329 - INFO -  * Restarting with stat
+2025-04-11 08:57:55,531 - INFO - Connect db 24ppc4 complite
+2025-04-11 08:57:55,532 - INFO - Auth_server Start
+2025-04-11 08:57:55,542 - WARNING -  * Debugger is active!
+2025-04-11 08:57:55,545 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:58:00,984 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-11 08:58:00,984 - INFO - 127.0.0.1 - - [11/Apr/2025 08:58:00] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-11 08:58:55,782 - INFO -  * Detected change in '/home/Student/Рабочий стол/шептякова 24P/models.py', reloading
+2025-04-11 08:58:55,841 - INFO -  * Restarting with stat
+2025-04-11 08:58:56,034 - INFO - Connect db 24ppc4 complite
+2025-04-11 08:58:56,035 - INFO - Auth_server Start
+2025-04-11 08:58:56,042 - WARNING -  * Debugger is active!
+2025-04-11 08:58:56,044 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 08:58:56,856 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-11 08:58:56,856 - INFO - 127.0.0.1 - - [11/Apr/2025 08:58:56] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-11 09:17:19,531 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:17:19,532 - INFO - Auth_server Start
+2025-04-11 09:17:19,541 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 09:17:19,541 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 09:17:19,542 - INFO -  * Restarting with stat
+2025-04-11 09:17:19,728 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:17:19,729 - INFO - Auth_server Start
+2025-04-11 09:17:19,736 - WARNING -  * Debugger is active!
+2025-04-11 09:17:19,738 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 09:17:32,368 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-11 09:17:32,369 - INFO - 127.0.0.1 - - [11/Apr/2025 09:17:32] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-11 09:18:56,582 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:18:56,584 - INFO - Auth_server Start
+2025-04-11 09:18:56,593 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 09:18:56,593 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 09:18:56,593 - INFO -  * Restarting with stat
+2025-04-11 09:18:56,777 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:18:56,778 - INFO - Auth_server Start
+2025-04-11 09:18:56,785 - WARNING -  * Debugger is active!
+2025-04-11 09:18:56,787 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 09:19:00,869 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-11 09:19:00,869 - INFO - 127.0.0.1 - - [11/Apr/2025 09:19:00] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-11 09:20:12,099 - INFO -  * Detected change in '/home/Student/Рабочий стол/шептякова 24P/models.py', reloading
+2025-04-11 09:20:12,169 - INFO -  * Restarting with stat
+2025-04-11 09:20:12,359 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:20:12,361 - INFO - Auth_server Start
+2025-04-11 09:20:12,367 - WARNING -  * Debugger is active!
+2025-04-11 09:20:12,369 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 09:32:40,242 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:32:40,243 - INFO - Auth_server Start
+2025-04-11 09:32:40,252 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 09:32:40,252 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 09:32:40,253 - INFO -  * Restarting with stat
+2025-04-11 09:32:40,440 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:32:40,440 - INFO - Auth_server Start
+2025-04-11 09:32:40,448 - WARNING -  * Debugger is active!
+2025-04-11 09:32:40,451 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 09:44:38,910 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:44:38,911 - INFO - Auth_server Start
+2025-04-11 09:44:38,921 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 09:44:38,921 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 09:44:38,921 - INFO -  * Restarting with stat
+2025-04-11 09:44:39,106 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:44:39,107 - INFO - Auth_server Start
+2025-04-11 09:44:39,113 - WARNING -  * Debugger is active!
+2025-04-11 09:44:39,116 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 09:44:43,045 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-11 09:44:43,046 - INFO - 127.0.0.1 - - [11/Apr/2025 09:44:43] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-11 09:49:04,793 - INFO - User testuser registered [IP: 127.0.0.1]
+2025-04-11 09:49:04,793 - INFO - 127.0.0.1 - - [11/Apr/2025 09:49:04] "[35m[1mPOST /registration HTTP/1.1[0m" 201 -
+2025-04-11 09:49:25,209 - INFO - 127.0.0.1 - - [11/Apr/2025 09:49:25] "[35m[1mPOST /auth HTTP/1.1[0m" 500 -
+2025-04-11 09:50:53,361 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:50:53,362 - INFO - Auth_server Start
+2025-04-11 09:50:53,370 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 09:50:53,370 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 09:50:53,371 - INFO -  * Restarting with stat
+2025-04-11 09:50:53,568 - INFO - Connect db 24ppc4 complite
+2025-04-11 09:50:53,569 - INFO - Auth_server Start
+2025-04-11 09:50:53,576 - WARNING -  * Debugger is active!
+2025-04-11 09:50:53,579 - INFO -  * Debugger PIN: 431-723-261
+2025-04-11 09:50:57,311 - INFO - 127.0.0.1 - - [11/Apr/2025 09:50:57] "[35m[1mPOST /auth HTTP/1.1[0m" 500 -
+2025-04-11 10:21:39,101 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:21:39,102 - INFO - Auth_server Start
+2025-04-11 10:21:39,115 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 10:21:39,115 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 10:21:39,115 - INFO -  * Restarting with stat
+2025-04-11 10:21:39,293 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:21:39,294 - INFO - Auth_server Start
+2025-04-11 10:21:39,302 - WARNING -  * Debugger is active!
+2025-04-11 10:21:39,304 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:21:43,113 - INFO - User testuser no authorized [IP: 127.0.0.1]
+2025-04-11 10:21:43,113 - INFO - 127.0.0.1 - - [11/Apr/2025 10:21:43] "[31m[1mPOST /auth HTTP/1.1[0m" 401 -
+2025-04-11 10:23:35,701 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/models.py', reloading
+2025-04-11 10:23:36,022 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:23:36,023 - INFO - Auth_server Start
+2025-04-11 10:23:36,032 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 10:23:36,032 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 10:23:36,033 - INFO -  * Restarting with stat
+2025-04-11 10:23:36,218 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:23:36,219 - INFO - Auth_server Start
+2025-04-11 10:23:36,227 - WARNING -  * Debugger is active!
+2025-04-11 10:23:36,230 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:23:40,636 - INFO - User testuser  authorized [IP: 127.0.0.1]
+2025-04-11 10:23:40,637 - INFO - 127.0.0.1 - - [11/Apr/2025 10:23:40] "[35m[1mPOST /auth HTTP/1.1[0m" 201 -
+2025-04-11 10:33:36,260 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/models.py', reloading
+2025-04-11 10:33:36,316 - INFO -  * Restarting with stat
+2025-04-11 10:33:37,494 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:33:37,495 - INFO - Auth_server Start
+2025-04-11 10:33:37,503 - WARNING -  * Debugger is active!
+2025-04-11 10:33:37,505 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:33:50,338 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:33:50,339 - INFO - Auth_server Start
+2025-04-11 10:33:50,348 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 10:33:50,348 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 10:33:50,349 - INFO -  * Restarting with stat
+2025-04-11 10:33:50,543 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:33:50,544 - INFO - Auth_server Start
+2025-04-11 10:33:50,553 - WARNING -  * Debugger is active!
+2025-04-11 10:33:50,555 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:34:06,324 - INFO - User testuser  authorized [IP: 127.0.0.1]
+2025-04-11 10:34:06,324 - INFO - 127.0.0.1 - - [11/Apr/2025 10:34:06] "[35m[1mPOST /auth HTTP/1.1[0m" 201 -
+2025-04-11 10:37:23,452 - INFO - 127.0.0.1 - - [11/Apr/2025 10:37:23] "[33mPOST /out HTTP/1.1[0m" 404 -
+2025-04-11 10:38:59,866 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:38:59,867 - INFO - Auth_server Start
+2025-04-11 10:38:59,876 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 10:38:59,877 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 10:38:59,877 - INFO -  * Restarting with stat
+2025-04-11 10:39:00,058 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:39:00,059 - INFO - Auth_server Start
+2025-04-11 10:39:00,066 - WARNING -  * Debugger is active!
+2025-04-11 10:39:00,069 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:39:04,475 - INFO - 127.0.0.1 - - [11/Apr/2025 10:39:04] "[33mPOST /out HTTP/1.1[0m" 404 -
+2025-04-11 10:39:49,755 - INFO - Auth_server Start
+2025-04-11 10:39:49,756 - WARNING -  * Debugger is active!
+2025-04-11 10:39:49,756 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:39:49,869 - INFO - Auth_server Start
+2025-04-11 10:39:49,870 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 10:39:49,870 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 10:39:49,870 - INFO -  * Restarting with stat
+2025-04-11 10:39:50,051 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:39:50,053 - INFO - Auth_server Start
+2025-04-11 10:39:50,067 - WARNING -  * Debugger is active!
+2025-04-11 10:39:50,070 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:41:42,653 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:41:42,654 - INFO - Auth_server Start
+2025-04-11 10:41:42,664 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 10:41:42,664 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 10:41:42,664 - INFO -  * Restarting with stat
+2025-04-11 10:41:42,852 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:41:42,853 - INFO - Auth_server Start
+2025-04-11 10:41:42,863 - WARNING -  * Debugger is active!
+2025-04-11 10:41:42,865 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:41:44,875 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:41:44,876 - INFO - Auth_server Start
+2025-04-11 10:41:44,886 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 10:41:44,886 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 10:41:44,887 - INFO -  * Restarting with stat
+2025-04-11 10:41:45,079 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:41:45,080 - INFO - Auth_server Start
+2025-04-11 10:41:45,090 - WARNING -  * Debugger is active!
+2025-04-11 10:41:45,093 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:41:50,783 - INFO - User testuser no came out [IP: 127.0.0.1]
+2025-04-11 10:41:50,783 - INFO - 127.0.0.1 - - [11/Apr/2025 10:41:50] "[31m[1mPOST /out HTTP/1.1[0m" 401 -
+2025-04-11 10:42:58,579 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:42:58,581 - INFO - Auth_server Start
+2025-04-11 10:42:58,590 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 10:42:58,590 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 10:42:58,590 - INFO -  * Restarting with stat
+2025-04-11 10:42:58,775 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:42:58,777 - INFO - Auth_server Start
+2025-04-11 10:42:58,784 - WARNING -  * Debugger is active!
+2025-04-11 10:42:58,787 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:43:02,024 - INFO - User testuser no came out [IP: 127.0.0.1]
+2025-04-11 10:43:02,024 - INFO - 127.0.0.1 - - [11/Apr/2025 10:43:02] "[31m[1mPOST /out HTTP/1.1[0m" 401 -
+2025-04-11 10:50:25,306 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/models.py', reloading
+2025-04-11 10:50:25,362 - INFO -  * Restarting with stat
+2025-04-11 10:50:25,563 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:50:25,564 - INFO - Auth_server Start
+2025-04-11 10:50:25,573 - WARNING -  * Debugger is active!
+2025-04-11 10:50:25,576 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 10:59:28,419 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/models.py', reloading
+2025-04-11 10:59:28,480 - INFO -  * Restarting with stat
+2025-04-11 10:59:28,662 - INFO - Connect db 24ppc4 complite
+2025-04-11 10:59:28,663 - INFO - Auth_server Start
+2025-04-11 10:59:28,671 - WARNING -  * Debugger is active!
+2025-04-11 10:59:28,673 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 11:18:44,608 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/main.py', reloading
+2025-04-11 11:18:44,666 - INFO -  * Restarting with stat
+2025-04-11 11:18:44,857 - INFO - Connect db 24ppc4 complite
+2025-04-11 11:18:44,858 - INFO - Auth_server Start
+2025-04-11 11:18:44,866 - WARNING -  * Debugger is active!
+2025-04-11 11:18:44,868 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 11:19:01,931 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/main.py', reloading
+2025-04-11 11:19:01,982 - INFO -  * Restarting with stat
+2025-04-11 11:19:02,156 - INFO - Connect db 24ppc4 complite
+2025-04-11 11:19:02,157 - INFO - Auth_server Start
+2025-04-11 11:19:02,165 - WARNING -  * Debugger is active!
+2025-04-11 11:19:02,167 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 11:19:47,336 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/main.py', reloading
+2025-04-11 11:19:47,387 - INFO -  * Restarting with stat
+2025-04-11 11:19:47,571 - INFO - Connect db 24ppc4 complite
+2025-04-11 11:19:47,572 - INFO - Auth_server Start
+2025-04-11 11:19:47,580 - WARNING -  * Debugger is active!
+2025-04-11 11:19:47,582 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 11:21:01,841 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/main.py', reloading
+2025-04-11 11:21:01,951 - INFO -  * Restarting with stat
+2025-04-11 11:21:02,326 - INFO - Connect db 24ppc4 complite
+2025-04-11 11:21:02,327 - INFO - Auth_server Start
+2025-04-11 11:21:02,336 - WARNING -  * Debugger is active!
+2025-04-11 11:21:02,339 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 11:27:20,643 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/main.py', reloading
+2025-04-11 11:27:20,697 - INFO -  * Restarting with stat
+2025-04-11 11:27:20,877 - INFO - Connect db 24ppc4 complite
+2025-04-11 11:27:20,878 - INFO - Auth_server Start
+2025-04-11 11:27:20,886 - WARNING -  * Debugger is active!
+2025-04-11 11:27:20,888 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 11:34:38,409 - INFO -  * Detected change in '/home/Student/Рабочий стол/42/PythonProject1/models.py', reloading
+2025-04-11 11:34:38,470 - INFO -  * Restarting with stat
+2025-04-11 12:05:29,332 - INFO - Connect db 24ppc4 complite
+2025-04-11 12:05:29,333 - INFO - Auth_server Start
+2025-04-11 12:05:29,344 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5007
+ * Running on http://192.168.200.10:5007
+2025-04-11 12:05:29,344 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 12:05:29,345 - INFO -  * Restarting with stat
+2025-04-11 12:05:29,532 - INFO - Connect db 24ppc4 complite
+2025-04-11 12:05:29,533 - INFO - Auth_server Start
+2025-04-11 12:05:29,542 - WARNING -  * Debugger is active!
+2025-04-11 12:05:29,545 - INFO -  * Debugger PIN: 120-734-100
+2025-04-11 12:05:33,061 - INFO - 127.0.0.1 - - [11/Apr/2025 12:05:33] "[31m[1mPOST /out HTTP/1.1[0m" 400 -
