@@ -1,14 +1,12 @@
 from flask import Flask,request,jsonify,render_template,render_template_string
 import logging
 import markdown
-from werkzeug.routing import ValidationError
-
 from models import DataBase
 ###
 host = "192.168.200.1"
-user = "24ppc4"
+user = "24ppc8"
 password = "P@$$w0rd"
-database = "24ppc4"
+database = "24ppc8"
 ###
 app = Flask(__name__)
 
@@ -85,6 +83,19 @@ def out():
     else:
         log_with_ip(f"User {login} no came out")
         return jsonify({'message': 'User no came out'}), 401
+
+
+@app.route('/edit_password', methods=['POST'])
+def edit_password():
+    data = request.json
+    login = data.get('login')
+    old_pass = data.get('old_password')
+    new_pass = data.get('new_password')
+
+    if db.edit_password(login, old_pass, new_pass):
+        return jsonify({'status': 'success'}), 200
+    return jsonify({'status': 'failed'}), 400
+
 if __name__ == '__main__':
     logging.log(logging.INFO,"Auth_server Start")
     app.run(host='0.0.0.0', port=5007, debug=True)
