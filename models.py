@@ -15,43 +15,37 @@ class DataBase:
         return jwt.encode(payload,secret_key,algorithm='HS256')
 
     def registration(self,login,password,name,token="0"):
-        temp = self.valid_login(login)
-        if temp != 0:
-            sql = f'INSERT INTO `user`(`login`, `password`, `token`, `name`) VALUES ("{login}","{password}","{token}","{name}");'
+        sql_proverka = f"SELECT * FROM `users` WHERE `login`='{login}';"
+        response1 = self.db.fetch_data(sql_proverka)
+        if response1 == []:
+            sql = f'INSERT INTO `users`(`login`, `password`, `token`, `name`) VALUES ("{login}","{password}","{token}","{name}");'
             response = self.db.execute_query(sql)
             if response == 1:
                 return True
             else:
                 return response
-        else:
-            return ('логин уже существует')
     def auth(self,login,password):
-        sql = f'SELECT `name`,`token` FROM `user` WHERE login = "{login}"AND password = "{password}";'
+        sql = f'SELECT `name`,`token` FROM `users` WHERE login = "{login}"AND password = "{password}";'
         response = self.db.fetch_data(sql)
         token = self.genarete_token(login,password)
         if response != []:
-            sql_update = f"UPDATE `user` SET `token`='{token}' WHERE `login`='{login}';"
+            sql_update = f"UPDATE `users` SET `token`='{token}' WHERE `login`='{login}';"
             self.db.execute_query(sql_update)
         response = self.db.fetch_data(sql)
         return response
-    def valid_login(self, login):
-        sql = f"SELECT 1 FROM `user` WHERE `login`='{login}'"
-        response = self.db.fetch_data(sql)
-        if response != response:
-            return response
-        else:
-            sql_update = f"UPDATE `user` SET `login`='0'"
-            self.db.execute_query(sql_update)
-            return ({'error':'login or token  required'}),400
     def out(self,login,token):
-        sql = f'SELECT `name`,`token` FROM `user` WHERE login = "{login}" AND token = "{token}";'
+        sql = f'SELECT `name`,`token` FROM `users` WHERE login = "{login}" AND token = "{token}";'
         response = self.db.fetch_data(sql)
         if response != []:
-            sql_update = f"UPDATE `user` SET `token`='0' WHERE `login`='{login}';"
+            sql_update = f"UPDATE `users` SET `token`='0' WHERE `login`='{login}';"
             self.db.execute_query(sql_update)
-
         return 1
 
-
-
-
+    def edit_password(self, login, old_pass, new_pass):
+        sql = f"""
+            UPDATE users 
+            SET password='{new_pass}' 
+            WHERE login='{login}' 
+            AND password='{old_pass}'
+        """
+        return self.db.execute_query(sql) == 1
