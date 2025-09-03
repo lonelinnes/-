@@ -3,10 +3,10 @@ import logging
 import markdown
 from models import DataBase
 ###
-host = "192.168.200.1"
-user = "24ppc8"
-password = "P@$$w0rd"
-database = "24ppc8"
+host = "192.168.3.31"
+user = "k2bd05"
+password = "k2bd05"
+database = "k2bd05"
 ###
 app = Flask(__name__)
 
